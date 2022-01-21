@@ -1,0 +1,9 @@
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\Klem\Desktop\Prog\Projets\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Game.resources
